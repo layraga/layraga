@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dumkis+Julmensir!;Full-Stack+Developer;Digital+Entrepreneur;AI+Enthusiast;Building+the+Future!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dumkis!;Full-Stack+Developer;Digital+Entrepreneur;AI+Enthusiast;Building+the+Future!">
 </h1>
 
 <h3 align="center">🚀 Sistem Informasi | Universitas Respati Yogyakarta</h3>
@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/layraga?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/layraga?label=Stars&style=social" alt="stars" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" alt="status" />
-  <img src="https://img.shields.io/badge/Open%20For-Collaboration-blueviolet?style=flat" alt="collaboration" />
 </p>
 
 ---
@@ -22,32 +21,306 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-class DumkisJulmensir:
-    def __init__(self):
-        self.name = "Dumkis Julmensir Lay Raga"
-        self.university = "Universitas Respati Yogyakarta"
-        self.major = "Sistem Informasi (S1)"
-        self.role = "Digital Entrepreneur & Full-Stack Developer"
-        self.location = "Yogyakarta, Indonesia"
-        self.interests = ["Web Development", "AI Tools", "UI/UX Design", "Mobile Apps"]
-        self.motto = "Building solutions that make a difference"
-    
-    def say_hi(self):
-        print("Welcome to my digital universe! Let's create something amazing 🚀")
+- 🎓 Mahasiswa **Sistem Informasi** di Universitas Respati Yogyakarta (2023 - sekarang)
+- 💼 Founder **LayRaga.Official** - Digital Entrepreneur
+- 🏆 **Top 10 National AI Talent Development Workshop** - Alibaba Cloud 2025
+- 🔭 Saat ini mengerjakan **ARSIKA** (Arsip Digital) & **SMA Absensi QR**
+- 🌱 Aktif belajar **AI Automation, Cloud Computing, & Mobile Dev**
+- 👯 Terbuka untuk kolaborasi di **proyek open-source** dan **startup teknologi**
+- 📫 Hubungi saya: **dumkisjulmensirlayraga@gmail.com**
+
 <br clear="both">
-<h2>🛠️ Tech Stack & Tools</h2><h3>💻 Programming Languages</h3> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Pascal-003B5C?style=for-the-badge&logo=pascal&logoColor=white" /> </p><h3>🚀 Frameworks & Libraries</h3> <p align="center"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> </p><h3>🎨 Design & Editing</h3> <p align="center"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-005571?style=for-the-badge&logo=coreldraw&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" /> <img src="https://img.shields.io/badge/CapCut-00D4FF?style=for-the-badge&logo=capcut&logoColor=white" /> <img src="https://img.shields.io/badge/KineMaster-00A8FF?style=for-the-badge&logo=kinemaster&logoColor=white" /> <img src="https://img.shields.io/badge/Alight_Motion-FF6B00?style=for-the-badge&logo=alightmotion&logoColor=white" /> <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" /> </p><h3>🛠️ Other Tools</h3> <p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
 
-<h2>📊 GitHub Stats</h2><p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=layraga&theme=radical&hide_border=true" /> </p><p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layraga&layout=compact&theme=radical&hide_border=true" /> <img width="45%" src="https://github-profile-trophy.vercel.app/?username=layraga&theme=radical&no-frame=true&row=2&column=3" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=layraga&theme=react-dark&bg_color=0d1117&hide_border=true" width="94%" /> </p>
+---
 
-<h2>🏆 Sertifikasi & Pencapaian</h2><p align="center"> <img src="https://img.shields.io/badge/Top_10_AI_Talent_Workshop-FF6B00?style=for-the-badge&logo=alibabacloud&logoColor=white" /> <img src="https://img.shields.io/badge/MikroTIK_Network_Fundamentals-293239?style=for-the-badge&logo=mikrotik&logoColor=white" /> <img src="https://img.shields.io/badge/Digital_Marketing_Maestro-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Digital_Productivity-00A859?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Internet_Security-FF0000?style=for-the-badge&logo=security&logoColor=white" /> </p><table align="center"> <tr> <td align="center">🥇</td> <td><strong>Top 10 National AI Talent Development Workshop</strong></td> <td>Alibaba Cloud, HiColleagues, Indigo Telkom</td> <td>2025</td> </tr> <tr> <td align="center">🎯</td> <td><strong>MikroTIK Network Fundamentals</strong></td> <td>Hendevane Training Partner</td> <td>2025</td> </tr> <tr> <td align="center">📈</td> <td><strong>Digital Productivity & Tech Skills</strong></td> <td>GCFGlobal</td> <td>2025</td> </tr> <tr> <td align="center">🔒</td> <td><strong>Digital Safety & Internet Security</strong></td> <td>GCFGlobal</td> <td>2025</td> </tr> <tr> <td align="center">📊</td> <td><strong>Fundamental Digital Marketing</strong></td> <td>Maestro Academy</td> <td>2025</td> </tr> </table>
+<h2>🛠️ Tech Stack & Tools</h2>
 
-<h2>📌 Proyek Unggulan</h2><table> <tr> <th width="12%">Proyek</th> <th width="20%">Teknologi</th> <th width="48%">Deskripsi</th> <th width="20%">Status</th> </tr> <tr> <td><strong>ARSIKA</strong><br><small>Arsip Digital</small></td> <td> <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white" /><br> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" /> </td> <td> <b>Sistem Manajemen Arsip Digital</b><br> 📁 Upload otomatis ke Google Drive dengan struktur folder (Tahun → Bulan → Kategori → Uploader)<br> 🔐 Hak akses Public/Private/Share ke user tertentu<br> 📊 Dashboard dengan Chart.js & Statistik Realtime<br> 📧 Reset Password via OTP Email<br> 📄 Export Laporan Excel per periode<br> 👥 Manajemen User (Admin/User)<br> 📋 Activity Log & Notifikasi </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>SMA Absensi QR</strong><br><small>Presensi QR Code</small></td> <td> <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br> <img src="https://img.shields.io/badge/HTML5_QRCode-FF6B00?style=flat&logo=html5&logoColor=white" /><br> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" /> </td> <td> <b>Sistem Absensi Digital SMA</b><br> 📱 Scan QR Code dengan kamera (HTML5 QR Code)<br> 👨‍🎓 Login Siswa (NISN) & Guru (Username/Password)<br> 📊 Dashboard Admin/Guru/Siswa dengan Chart<br> 📋 Monitoring Realtime Status Kehadiran<br> 📅 Kelola Hari Libur (Tanggal Merah)<br> 📄 Export Excel Laporan Kehadiran<br> 🎫 Generate Kartu Pelajar Digital QR Code<br> ✏️ Edit Status Kehadiran (Hadir/Sakit/Izin/Alpa) </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>Bos Muda Web App</strong></td> <td> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /><br> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> </td> <td> Aplikasi sewa kamera & photobooth dengan sistem otomatis pengiriman pesanan via WhatsApp </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>Sampah Jogja</strong></td> <td> <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white" /><br> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> </td> <td> Web app manajemen pengambilan sampah rumah tangga dengan dashboard admin & pengguna secara digital </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>ANBK Simulation</strong></td> <td> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> </td> <td> Aplikasi edukatif berbasis web dengan sistem soal acak, hasil skor otomatis, serta penjelasan jawaban interaktif untuk siswa SD </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>Platform Pelatihan Online</strong></td> <td> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /><br> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> </td> <td> Aplikasi pelatihan berbasis Laravel dengan dashboard untuk admin, instruktur, dan peserta, dilengkapi sistem pembelajaran modular </td> <td> <img src="https://img.shields.io/badge/Development-FBBF24?style=flat&logo=vercel&logoColor=black" /> </td> </tr> <tr> <td><strong>Penjualan Harian Otomatis</strong></td> <td> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> </td> <td> Sistem untuk menghitung dan mencetak laporan hasil penjualan secara otomatis ke format PDF, JPG, dan PNG </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> <tr> <td><strong>Portofolio Interaktif</strong></td> <td> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /><br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </td> <td> Website pribadi responsif dengan animasi menarik menggunakan HTML, CSS, dan JavaScript </td> <td> <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" /> </td> </tr> </table>
+<h3>💻 Programming Languages</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pascal-003B5C?style=for-the-badge&logo=pascal&logoColor=white" />
+</p>
 
-<h2>🏛️ Organisasi & Kepemimpinan</h2><ul> <li> <strong>🔄 Ketua Koordinator Aspirasi & Kominfo</strong> - DPM Universitas Respati Yogyakarta (2025-2026) <ul> <li>Memimpin dan membimbing tim aspirasi & komunikasi mahasiswa</li> <li>Mengelola seluruh akun media sosial DPM dan merancang konten promosi kegiatan</li> <li>Menjadi penghubung antara mahasiswa dan pihak kampus dalam penyampaian aspirasi</li> </ul> </li> <br> <li> <strong>📚 Anggota Pengembangan Potensi Mahasiswa (PPM)</strong> - HIMASI Universitas Respati Yogyakarta (2025-2026) <ul> <li>Berpartisipasi aktif dalam pengembangan kegiatan dan pelatihan untuk mahasiswa Sistem Informasi</li> <li>Mendukung program peningkatan keterampilan digital dan soft skill anggota HIMASI</li> </ul> </li> <br> <li> <strong>🎓 Panitia Kongres</strong> - Universitas Respati Yogyakarta (2024) </li> </ul>
-<h2>💼 Pengalaman Kerja</h2><ul> <li> <strong>Digital Entrepreneur</strong> - LayRaga.Official (Juli 2024 - Sekarang) <ul> <li>Mengelola bisnis kreatif di bidang teknologi dan digital</li> <li>Menerima dan mengerjakan proyek pembuatan website, aplikasi, portofolio, serta desain profesional</li> <li>Mengembangkan dan menjual buku bertema teknologi</li> <li>Menerima berbagai permintaan jasa seperti editing video, desain grafis, dan pengembangan AI tools</li> </ul> </li> <br> <li> <strong>Castel</strong> - Hamayang Barbershop, Sumba Timur (April 2022 - September 2023) <ul> <li>Bertanggung jawab atas pelayanan pelanggan dan pengelolaan operasional barbershop</li> <li>Membantu promosi layanan dan menjaga loyalitas pelanggan</li> </ul> </li> </ul>
+<h3>🚀 Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
-<h2>📫 Hubungi Saya</h2><p align="center"> <a href="mailto:dumkisjulmensirlayraga@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/dumkis-julmensir-lay-raga-51577236a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://layraga.com"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://instagram.com/layraga.official"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://github.com/layraga"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://youtube.com/@layraga"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://tiktok.com/@layraga"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> </p>
+<h3>🎨 Design & Editing</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CorelDRAW-005571?style=for-the-badge&logo=coreldraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-00D4FF?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/KineMaster-00A8FF?style=for-the-badge&logo=kinemaster&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alight_Motion-FF6B00?style=for-the-badge&logo=alightmotion&logoColor=white" />
+</p>
 
-<h2>💡 Teknologi yang Saya Kuasai</h2><p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,nodejs,laravel,bootstrap,tailwind,mysql,git,github,vscode,figma" /> </p>
+<h3>🛠️ Other Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Innovation+distinguishes+between+a+leader+and+a+follower.;Code+is+poetry+in+motion.;Building+tomorrow%2C+today!;Stay+hungry%2C+stay+foolish."> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"> </p><p align="center"> <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Powered_by-☕-brown?style=for-the-badge" /> <img src="https://img.shields.io/badge/Built_with-🚀-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Code_with-💻-purple?style=for-the-badge" /> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=layraga&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="visitors" /> </p><p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=layraga&label=Total%20Visitors&countColor=%23263759" alt="visitor badge" /> </p><p align="center">⭐️ From <a href="https://github.com/layraga">layraga</a> | © 2026 All Rights Reserved</p>
+<br>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=layraga&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layraga&layout=compact&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=layraga&theme=radical&no-frame=true&row=2&column=3" />
+</p>
+
+<br>
+
+---
+
+<h2>🏆 Sertifikasi & Pencapaian</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Top_10_AI_Talent_Workshop-FF6B00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTIK_Network_Fundamentals-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Marketing_Maestro-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Productivity-00A859?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet_Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+</p>
+
+<ul>
+  <li>🥇 <strong>Top 10 National AI Talent Development Workshop</strong> - Alibaba Cloud, HiColleagues, Indigo Telkom (2025)</li>
+  <li>🎯 <strong>MikroTIK Network Fundamentals</strong> - Hendevane Training Partner (2025)</li>
+  <li>📈 <strong>Digital Productivity & Tech Skills</strong> - GCFGlobal (2025)</li>
+  <li>🔒 <strong>Digital Safety & Internet Security</strong> - GCFGlobal (2025)</li>
+  <li>📊 <strong>Fundamental Digital Marketing</strong> - Maestro Academy (2025)</li>
+</ul>
+
+<br>
+
+---
+
+<h2>📌 Proyek Unggulan</h2>
+
+<table>
+  <tr>
+    <th>Proyek</th>
+    <th>Teknologi</th>
+    <th>Deskripsi</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><strong>ARSIKA</strong><br><small>Arsip Digital</small></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white" />
+    </td>
+    <td>
+      <b>Sistem Manajemen Arsip Digital</b><br>
+      📁 Upload otomatis ke Google Drive dengan struktur folder (Tahun → Bulan → Kategori → Uploader)<br>
+      🔐 Hak akses Public/Private/Share<br>
+      📊 Dashboard + Chart.js<br>
+      📧 Reset Password via OTP Email<br>
+      📄 Export Laporan Excel
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>SMA Absensi QR</strong><br><small>Presensi QR Code</small></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HTML5_QRCode-FF6B00?style=flat&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td>
+      <b>Sistem Absensi Digital SMA</b><br>
+      📱 Scan QR Code dengan kamera<br>
+      👨‍🎓 Login Siswa (NISN) & Guru (Username/Pass)<br>
+      📊 Dashboard + Monitoring Realtime<br>
+      📅 Kelola Hari Libur<br>
+      📄 Export Excel Laporan Kehadiran<br>
+      🎫 Generate Kartu Pelajar Digital
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bos Muda Web App</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+    </td>
+    <td>
+      Aplikasi sewa kamera & photobooth dengan sistem auto WhatsApp
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Sampah Jogja</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white" />
+    </td>
+    <td>
+      Manajemen pengambilan sampah digital dengan dashboard admin & user
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ANBK Simulation</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      Simulasi ujian ANBK untuk SD dengan soal acak & skor otomatis
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Platform Pelatihan Online</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+    </td>
+    <td>
+      LMS dengan dashboard admin, instruktur, & peserta
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Development-FBBF24?style=flat&logo=vercel&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Penjualan Harian Otomatis</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      Sistem laporan penjualan ke PDF, JPG, & PNG
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h2>🏛️ Organisasi & Kepemimpinan</h2>
+
+<ul>
+  <li>
+    <strong>Ketua Koordinator Aspirasi & Kominfo</strong> - DPM Universitas Respati Yogyakarta (2025-2026)
+    <ul>
+      <li>Memimpin tim aspirasi & komunikasi mahasiswa</li>
+      <li>Mengelola seluruh akun media sosial DPM dan merancang konten promosi</li>
+      <li>Menjadi penghubung antara mahasiswa dan pihak kampus</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <strong>Anggota PPM (Pengembangan Potensi Mahasiswa)</strong> - HIMASI Universitas Respati Yogyakarta (2025-2026)
+    <ul>
+      <li>Berpartisipasi dalam pengembangan kegiatan & pelatihan mahasiswa</li>
+      <li>Mendukung program peningkatan keterampilan digital & soft skill</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <strong>Panitia Kongres</strong> - Universitas Respati Yogyakarta (2024)
+  </li>
+</ul>
+
+<br>
+
+---
+
+<h2>📫 Hubungi Saya</h2>
+
+<p align="center">
+  <a href="mailto:dumkisjulmensirlayraga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dumkis-julmensir-lay-raga-51577236a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://layraga.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/layraga.official">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/layraga">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@layraga">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+---
+
+<h2>💡 Teknologi yang Saya Kuasai</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,nodejs,laravel,bootstrap,tailwind,mysql,git,github,vscode,figma" />
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Innovation+distinguishes+between+a+leader+and+a+follower.;Code+is+poetry+in+motion.;Building+tomorrow%2C+today!;Stay+hungry%2C+stay+foolish.">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered_by-☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built_with-🚀-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=layraga&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="visitors" />
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/layraga">layraga</a></p>
