@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dumkis+Julmensir!;Web+Developer;Digital+Entrepreneur;AI+Enthusiast;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dumkis+Julmensir+Lay+Raga!;Web+Developer;Digital+Entrepreneur;AI+Enthusiast;Welcome+to+my+profile!">
 </h1>
 
 <h3 align="center">🚀 Sistem Informasi | Universitas Respati Yogyakarta</h3>
