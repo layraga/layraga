@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dumkis!;Web+Developer;Digital+Entrepreneur;AI+Enthusiast;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dumkis+Julmensir!;Full-Stack+Developer;Digital+Entrepreneur;AI+Enthusiast;Building+the+Future!">
 </h1>
 
 <h3 align="center">🚀 Sistem Informasi | Universitas Respati Yogyakarta</h3>
@@ -8,24 +8,30 @@
   <img src="https://komarev.com/ghpvc/?username=layraga&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/layraga?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/layraga?label=Stars&style=social" alt="stars" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" alt="status" />
 </p>
 
-<br>
+---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+---
 
 <h2>👨‍💻 Tentang Saya</h2>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Mahasiswa **Sistem Informasi** di Universitas Respati Yogyakarta (2023 - sekarang)
 - 💼 Founder **LayRaga.Official** - Digital Entrepreneur
 - 🏆 **Top 10 National AI Talent Development Workshop** - Alibaba Cloud 2025
-- 🔭 Saat ini mengerjakan berbagai proyek web dengan **Laravel, CI4, & WordPress**
-- 🌱 Aktif belajar **AI Automation & Cloud Computing**
+- 🔭 Saat ini mengerjakan **ARSIKA** (Arsip Digital) & **SMA Absensi QR**
+- 🌱 Aktif belajar **AI Automation, Cloud Computing, & Mobile Dev**
 - 👯 Terbuka untuk kolaborasi di **proyek open-source** dan **startup teknologi**
 - 📫 Hubungi saya: **dumkisjulmensirlayraga@gmail.com**
 
-<br>
-<br>
+<br clear="both">
+
+---
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
@@ -47,6 +53,9 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
@@ -64,12 +73,16 @@
 <h3>🛠️ Other Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hosting-2D8CFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br>
+
+---
 
 <h2>📊 GitHub Stats</h2>
 
@@ -84,6 +97,8 @@
 </p>
 
 <br>
+
+---
 
 <h2>🏆 Sertifikasi & Pencapaian</h2>
 
@@ -105,6 +120,8 @@
 
 <br>
 
+---
+
 <h2>📌 Proyek Unggulan</h2>
 
 <table>
@@ -112,40 +129,115 @@
     <th>Proyek</th>
     <th>Teknologi</th>
     <th>Deskripsi</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><strong>ARSIKA</strong><br><small>Arsip Digital</small></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=white" />
+    </td>
+    <td>
+      <b>Sistem Manajemen Arsip Digital</b><br>
+      📁 Upload otomatis ke Google Drive dengan struktur folder (Tahun → Bulan → Kategori → Uploader)<br>
+      🔐 Hak akses Public/Private/Share<br>
+      📊 Dashboard + Chart.js<br>
+      📧 Reset Password via OTP Email<br>
+      📄 Export Laporan Excel
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>SMA Absensi QR</strong><br><small>Presensi QR Code</small></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=google&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/HTML5_QRCode-FF6B00?style=flat&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+    </td>
+    <td>
+      <b>Sistem Absensi Digital SMA</b><br>
+      📱 Scan QR Code dengan kamera<br>
+      👨‍🎓 Login Siswa (NISN) & Guru (Username/Pass)<br>
+      📊 Dashboard + Monitoring Realtime<br>
+      📅 Kelola Hari Libur<br>
+      📄 Export Excel Laporan Kehadiran<br>
+      🎫 Generate Kartu Pelajar Digital
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><strong>Bos Muda Web App</strong></td>
-    <td>Laravel, Bootstrap</td>
-    <td>Aplikasi sewa kamera & photobooth dengan auto WhatsApp</td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+    </td>
+    <td>
+      Aplikasi sewa kamera & photobooth dengan sistem auto WhatsApp
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><strong>Sampah Jogja</strong></td>
-    <td>CodeIgniter 4</td>
-    <td>Manajemen pengambilan sampah digital dashboard admin & user</td>
+    <td>
+      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white" />
+    </td>
+    <td>
+      Manajemen pengambilan sampah digital dengan dashboard admin & user
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><strong>ANBK Simulation</strong></td>
-    <td>PHP, JavaScript</td>
-    <td>Simulasi ujian ANBK untuk SD dengan soal acak & skor otomatis</td>
-  </tr>
-  <tr>
-    <td><strong>Portofolio Interaktif</strong></td>
-    <td>HTML, CSS, JS</td>
-    <td>Website pribadi responsif dengan animasi menarik</td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      Simulasi ujian ANBK untuk SD dengan soal acak & skor otomatis
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><strong>Platform Pelatihan Online</strong></td>
-    <td>Laravel</td>
-    <td>LMS dengan dashboard admin, instruktur, & peserta</td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+    </td>
+    <td>
+      LMS dengan dashboard admin, instruktur, & peserta
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Development-FBBF24?style=flat&logo=vercel&logoColor=black" />
+    </td>
   </tr>
   <tr>
     <td><strong>Penjualan Harian Otomatis</strong></td>
-    <td>PHP, JavaScript</td>
-    <td>Sistem laporan penjualan ke PDF, JPG, & PNG</td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      Sistem laporan penjualan ke PDF, JPG, & PNG
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Production-10B981?style=flat&logo=vercel&logoColor=white" />
+    </td>
   </tr>
 </table>
 
 <br>
+
+---
 
 <h2>🏛️ Organisasi & Kepemimpinan</h2>
 
@@ -166,9 +258,15 @@
       <li>Mendukung program peningkatan keterampilan digital & soft skill</li>
     </ul>
   </li>
+  <br>
+  <li>
+    <strong>Panitia Kongres</strong> - Universitas Respati Yogyakarta (2024)
+  </li>
 </ul>
 
 <br>
+
+---
 
 <h2>📫 Hubungi Saya</h2>
 
@@ -188,17 +286,41 @@
   <a href="https://github.com/layraga">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://youtube.com/@layraga">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
+---
+
+<h2>💡 Teknologi yang Saya Kuasai</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!;Keep+coding+and+creating!;%23Innovation+%23Technology+%23Impact">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,nodejs,laravel,bootstrap,tailwind,mysql,git,github,vscode,figma" />
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Innovation+distinguishes+between+a+leader+and+a+follower.;Code+is+poetry+in+motion.;Building+tomorrow%2C+today!;Stay+hungry%2C+stay+foolish.">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Powered_by-☕-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built_with-🚀-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=layraga&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="visitors" />
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/layraga">layraga</a></p>
