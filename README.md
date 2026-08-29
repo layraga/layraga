@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dumkis+Julmensir!;Full-Stack+Developer+%26+AI+Enthusiast;Building+the+Future+with+Code;Founder+of+LayRaga.Official" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dumkis+Julmensir!;Full-Stack+%26+Mobile+Developer;AI+Enthusiast+%26+Video+Editing+Expert;Founder+of+LayRaga.Official" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🎓 Sistem Informasi | Universitas Respati Yogyakarta</h3>
@@ -24,14 +24,14 @@
         <li>🚀 <b>Founder</b> dari <b>LayRaga.Official</b> (Digital Entrepreneur)</li>
         <li>🏆 <b>Top 10 National AI Talent Development Workshop</b> - Alibaba Cloud 2025</li>
         <li>🔭 Saat ini fokus mengembangkan: <b>ARSIKA</b> (Arsip Digital) & <b>SMA Absensi QR</b></li>
-        <li>🌱 Sedang mendalami: <b>AI Automation, Cloud Computing, & Mobile Development</b></li>
-        <li>👯 Terbuka untuk kolaborasi di proyek <b>open-source</b> dan <b>startup teknologi</b></li>
+        <li>📱 Mengembangkan aplikasi mobile modern menggunakan <b>Flutter & Dart</b></li>
+        <li>🎬 <b>Sangat Menguasai Video Editing</b>: CapCut, KineMaster, & Alight Motion untuk konten kreatif berkualitas tinggi</li>
+        <li>🌱 Sedang mendalami: <b>React.js, Node.js, AI Automation, & Cloud Computing</b></li>
         <li>📫 Reach me: <a href="mailto:dumkisjulmensirlayraga@gmail.com"><b>dumkisjulmensirlayraga@gmail.com</b></a></li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- GIF yang mendukung Light & Dark Mode GitHub -->
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" max-width="350px" alt="Coding Animation" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="max-width: 350px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -43,56 +43,68 @@
 <!-- TECH STACK SECTION -->
 <h2 align="center">🛠️ Tech Arsenal & Tools</h2>
 
-<h3 align="center">💻 Core Development</h3>
+<h3 align="center">💻 Core Development & Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </p>
 
-<h3 align="center">🎨 Creative & Productivity</h3>
+<h3 align="center">🎬 Video Editing & Creative (Highly Proficient)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-00D4FF?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/KineMaster-00A8FF?style=for-the-badge&logo=kinemaster&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alight_Motion-FF6B00?style=for-the-badge&logo=alightmotion&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<h3 align="center">⚙️ DevOps & Productivity</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,vercel,wordpress,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,dart,vscode,github,vercel,figma" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS SECTION (DIPERBAIKI AGAR GAMBAR MUNCUL SEMUA) -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=layraga&theme=radical&hide_border=true" />
+  <!-- Menggunakan endpoint demolab yang lebih stabil untuk Streak Stats -->
+  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=layraga&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="45%" style="max-width: 100%;" src="https://streak-stats.demolab.com?user=layraga&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layraga&layout=compact&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=layraga&theme=radical&no-frame=true&row=1&column=4" />
+  <img width="45%" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layraga&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="45%" style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=layraga&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
@@ -136,12 +148,14 @@
       <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗑️ Sampah Jogja</h3>
-      <p>Manajemen pengambilan sampah digital dengan dashboard admin & user yang terintegrasi.</p>
+      <h3>📱 Mobile App (Flutter)</h3>
+      <p>Pengembangan aplikasi mobile cross-platform yang cepat dan responsif, memanfaatkan ekosistem <b>Flutter & Dart</b> untuk UI yang mulus dan performa native.</p>
       <p>
-        <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat&logo=codeigniter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
       </p>
-      <p><img src="https://img.shields.io/badge/Status-🟢_Production-10B981?style=flat" /></p>
+      <p><img src="https://img.shields.io/badge/Status-🚧_In_Development-FBBF24?style=flat" /></p>
     </td>
   </tr>
 </table>
@@ -151,6 +165,7 @@
   <br>
   <ul>
     <li><strong>ANBK Simulation:</strong> Simulasi ujian ANBK untuk SD dengan soal acak & skor otomatis (PHP, JS).</li>
+    <li><strong>Sampah Jogja:</strong> Manajemen pengambilan sampah digital dengan dashboard admin & user (CodeIgniter 4).</li>
     <li><strong>Platform Pelatihan Online:</strong> LMS dengan dashboard admin, instruktur, & peserta (Laravel) <em>[🚧 Development]</em>.</li>
     <li><strong>Penjualan Harian Otomatis:</strong> Sistem laporan penjualan ke PDF, JPG, & PNG (PHP, JS).</li>
   </ul>
