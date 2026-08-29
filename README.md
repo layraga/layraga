@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mahasiswa Sistem Informasi di Universitas Respati Yogyakarta (2023 - sekarang)<br>Founder LayRaga.Official - Digital Entrepreneur<br>Top 10 National AI Talent Development Workshop - Alibaba Cloud 2025<br>Saat ini mengerjakan berbagai proyek web dengan Laravel, CI4, & WordPress<br>Aktif belajar AI Automation & Cloud Computing<br>Terbuka untuk kolaborasi di proyek open-source dan startup teknologi<br>
+🎓 Mahasiswa Sistem Informasi di Universitas Respati Yogyakarta (2023 - sekarang)<br>💼 Founder LayRaga.Official - Digital Entrepreneur<br>🏆 Top 10 National AI Talent Development Workshop - Alibaba Cloud 2025<br>🔭 Saat ini mengerjakan berbagai proyek web dengan Laravel, CI4, & WordPress<br>🌱 Aktif belajar AI Automation & Cloud Computing<br>👯 Terbuka untuk kolaborasi di proyek open-source dan startup teknologi<br>
 
 
 ## 🌐 Socials:
